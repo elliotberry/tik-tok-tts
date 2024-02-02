@@ -1,0 +1,12 @@
+{
+  "name": "tiktok-on-the-clock-but-the-party-dont-stop-no",
+  "version": "1.0.1",
+  "main": "./index.js",
+  "type": "module",
+  "license": "The Unlicense",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "node-fetch": "^3.3.2"
+
+  }
+}
